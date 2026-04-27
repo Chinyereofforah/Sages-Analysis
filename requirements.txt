@@ -3,3 +3,4 @@ requests
 dune-client
 joblib
 uvicorn
+redis
